@@ -1,0 +1,8 @@
+url: 'http://119.3.223.250:5000'
+pattern: '\$\{(.*?)\}'
+dbInfo:
+    'host': "10.10.0.5"
+    'port': 33060
+    'user': "root"
+    'password': 'root'
+    'db': 'fantasy'
